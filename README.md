@@ -4,7 +4,7 @@ Fork this repository and create a single page application using [React](https://
 In rough order of importance, here are a few things that are interesting:
 * application functions and actually allows user to browse, sort, and filter at least a subset of the API
 * code quality & productivity
-* fluency in react
+* fluency in react patterns (and node, if applicable)
 * adding in a server component:
   * using [node](https://nodejs.org/), storage can just be in-memory
   * users can "favorite" objects and retrieve from the server later
