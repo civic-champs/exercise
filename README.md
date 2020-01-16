@@ -12,3 +12,5 @@ In rough order of importance, here are a few things that are interesting:
   * *real-time* comments on objects
   * etc
 * the app is not ugly
+
+Assume users are anonymous/unauthenticated and providing their own names if relevant. Getting caught up in authentication is **not** interesting.
