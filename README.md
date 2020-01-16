@@ -13,4 +13,4 @@ In rough order of importance, here are a few things that are interesting:
   * etc
 * the app is not ugly
 
-Assume users are anonymous/unauthenticated and providing their own names if relevant. Getting caught up in authentication is **not** interesting.
+Assume users will not login and should provide their own names etc if relevant. Getting caught up in authentication is **not** interesting.  Please provide instructions for running the project in your README.md
